@@ -22,7 +22,7 @@ I am also revisiting what I have learned via freeCodeCamp.
 [![Code Institute](https://img.shields.io/badge/Code%20Institute-Orange?style=for-the-badge&color=fafafa&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iNSIgcj0iMSIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc+)](https://codeinstitute.net/)
 -->
 
-My future prospects once I finish the course is to find a Junior position o anr Internship as a Front-End web developer.
+My future prospects once I finish the course is to find a Junior position or an Internship as a Front-End web developer.
 
 ### Tech Stack
 
