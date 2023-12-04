@@ -24,13 +24,12 @@ I am also revisiting what I have learned via freeCodeCamp.
 
 My future prospects once I finish the course is to find a Junior position or an Internship as a Front-End web developer.
 
-### Tech Stack
-
 | HTML/CSS/JavaScript | Frontend Framework/Library | Backend Framework/Database | Deployment and Hosting | Version Control and Collaboration | Development Environment |
 | -------------------- | -------------------------- | -------------------------- | ----------------------- | ----------------------------------- | ------------------------ |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Gitpod](https://img.shields.io/badge/Gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![ElephantSQL](https://img.shields.io/badge/ElephantSQL-0084B4?style=for-the-badge&logo=elephantsql&logoColor=white) |  |  |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  |  |  |  |  |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![ElephantSQL](https://img.shields.io/badge/ElephantSQL-0084B4?style=for-the-badge&logo=elephantsql&logoColor=white) |  | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  | ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white) |  |  |  |
+
 
 <!--### Certifications
 [![FreeCodeCamp Responsive Web Design Certificate](https://img.shields.io/badge/FreeCodeCamp-Certificate-0a0a0a?style=for-the-badge&logo=freeCodeCamp)](https://www.freecodecamp.org/certification/fcc4b91224a-c098-4fac-baaa-bdb55daa6fec/responsive-web-design)
