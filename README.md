@@ -16,7 +16,7 @@ I am Tiago and this is my playground where I explore, create, host and share my 
 I am currently enrolled at Code Institute "Full Stack Web Development" course, with specialization in "Advanced Front-End".
 I am also revisiting what I have learned via freeCodeCamp.
 
-My future prospects once I finish the course is to find a Junior or Internship as a Fron-End web developer.
+My future prospects once I finish the course is to find a Junior position o anr Internship as a Front-End web developer.
 
 ### Tech Stack
 
