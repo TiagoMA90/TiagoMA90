@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-### Greetings! Welcome to my GitHub page.🦉
+### Greetings! Welcome to my GitHub page.🦆
 I am Tiago and this is my playground where I explore, create, host and share my projects.
 
 I am currently enrolled at Code Institute "Full Stack Web Development" course, with specialization in "Advanced Front-End".
@@ -24,11 +24,13 @@ I am also revisiting what I have learned via freeCodeCamp.
 
 My future prospects once I finish the course is to find a Junior position or an Internship as a Front-End web developer.
 
-| HTML/CSS/JavaScript | Frontend Framework/Library | Backend Framework/Database | Deployment and Hosting | Version Control and Collaboration | Development Environment |
-| -------------------- | -------------------------- | -------------------------- | ----------------------- | ----------------------------------- | ------------------------ |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Gitpod](https://img.shields.io/badge/GitPod-FFAE33?logo=gitpod&logoColor=000000&style=for-the-badge) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |  | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  |  | ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white) |  |  |
+| Frontend Languages | Framework Libraries | Backend Frameworks | Deployment Hosting | Version Control | Development Environment | Testing | Toolkit |
+| -------------------- | -------------------------- | -------------------------- | ----------------------- | ----------------------------------- | ------------------------ | ------- | ------- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Gitpod](https://img.shields.io/badge/GitPod-FFAE33?logo=gitpod&logoColor=000000&style=for-the-badge) | ![W3C](https://img.shields.io/badge/W3C-005A9C?style=for-the-badge&logo=w3c&logoColor=white) | ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |  | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Jigsaw](https://img.shields.io/badge/Jigsaw-EC5732?style=for-the-badge&logo=jigsaw&logoColor=white) | ![GoogleFonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  |  | ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white) |  |  | ![JSHint](https://img.shields.io/badge/JSHint-F89939?style=for-the-badge&logo=jshint&logoColor=white) |
+
+
 
 
 <!--### Certifications
