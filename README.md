@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Greetings! Welcome to my GitHub page. 🦎
 I am Tiago and this is my playground where I explore, create, host and share my projects.
 
@@ -27,7 +28,3 @@ My future prospects once I finish the course is to find a Junior position or an 
 <a href="https://www.freecodecamp.org/certification/fcc4b91224a-c098-4fac-baaa-bdb55daa6fec/responsive-web-design" target="_blank">
     <img src="https://res.cloudinary.com/dmbdqco85/image/upload/v1701990105/d8bapss10sxb3p8txyyz.png" alt="Responsive Web design freeCodecamp" width="300" height="200">
 </a>
-
-### Certifications
-[![FreeCodeCamp Responsive Web Design Certificate](https://img.shields.io/badge/FreeCodeCamp-Certificate-0a0a0a?style=for-the-badge&logo=freeCodeCamp)](https://www.freecodecamp.org/certification/fcc4b91224a-c098-4fac-baaa-bdb55daa6fec/responsive-web-design)
--->
