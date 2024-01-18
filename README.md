@@ -21,8 +21,8 @@ I am Tiago and this is my playground where I explore, create, host and share my 
 
 <!-- Certifications-->
 ### Certifications
-<a href="https://www.credential.net/46b647bf-75cb-461b-87e9-8d24a2922313#gs.2g1p2h" target="_blank">
-    <img src="https://res.cloudinary.com/dmbdqco85/image/upload/v1704194442/y7mojzvmhx64evqrg9xw.png" alt="Full Stack Code Institute" width="200" height="150">
+<a href="https://www.credential.net/e29621a3-0a15-467b-8bdc-5b3f430a9f24" target="_blank">
+    <img src="https://res.cloudinary.com/dmbdqco85/image/upload/v1705572451/gfvnetqftc3tszthumxi.png" alt="Full Stack Code Institute" width="200" height="150">
 </a>
 <a href="https://www.freecodecamp.org/certification/fcc4b91224a-c098-4fac-baaa-bdb55daa6fec/responsive-web-design" target="_blank">
     <img src="https://res.cloudinary.com/dmbdqco85/image/upload/v1701990105/d8bapss10sxb3p8txyyz.png" alt="Responsive Web design freeCodecamp" width="200" height="150">
